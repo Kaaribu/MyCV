@@ -1,4 +1,4 @@
-# MyCV
+# My Profile
 
 Welcome to my online resume, hosted on GitHub. This repository contains the source code and assets for my resume website, which provides an overview of my education, work experience, skills and achievements.
 
